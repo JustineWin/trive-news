@@ -5323,7 +5323,7 @@ html {
 }
 
 .hero-section {
-  background: url(assets/img/hexagon.svg) no-repeat;
+  background: url(../assets/img/hexagon.svg) no-repeat;
   background-position: center center;
   background-size: cover;
   padding: 70px 0 450px 0;
@@ -5358,7 +5358,7 @@ html {
 }
 
 .sec-newsletter {
-  background: url(assets/img/newsletter-bg.svg) no-repeat;
+  background: url(../assets/img/newsletter-bg.svg) no-repeat;
   background-position: bottom center;
   background-size: contain;
   margin: 0;
